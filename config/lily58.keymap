@@ -15,6 +15,7 @@
         bs {
             bindings = <&kp BACKSPACE>;
             key-positions = <44 45>;
+            layers = <0>;
         };
     };
 
